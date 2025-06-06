@@ -21,5 +21,6 @@ Roxana está en proceso de evolución así que se actualizará poco a poco el si
 Notas:
 Tener instalado python 3.13.3 actualidad.
 Existe un archivo llamado requeriments.txt en el cual se encuentran lol pip install para el proyecto, se ejecutan desde el cmd cada uno de ellos y el proyecto levantará.
+Si apretas win +R y en ejecutar pones shell:startup y colocas el archivo lanzador.vbs se abrirá cada vez que inicies el ordenador.
 Cualquier duda no dude en consultar.
 Redes: https://www.linkedin.com/in/felix-ademir-vasquez-villegas-4799aa183/
