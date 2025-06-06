@@ -1,0 +1,37 @@
+
+Librerias Necesarias:
+pip install pvporcupine sounddevice SpeechRecognition pyttsx3 PyQt5 pillow
+
+
+Voz:
+pip install SpeechRecognition
+
+Microfono:
+pip install pyaudio
+
+
+Pantalla:
+pip install pillow pywin32
+
+Spotify:
+pip install spotipy
+
+
+pip install pygetwindow
+pip install pyautogui
+pip install python-dotenv spotipy
+
+
+
+
+SELERIUM
+===============
+pip install selenium
+
+VOZ abrir o cerrar app
+========================
+pip install pyttsx3
+
+pip install python-dotenv
+
+
